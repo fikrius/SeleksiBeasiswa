@@ -1,0 +1,10 @@
+.jumbotron{
+    width: 100%;
+}
+section .row{
+    width: 100%;
+}
+section .container{
+    min-height: 1000px;
+    margin-top: 10px;
+}
