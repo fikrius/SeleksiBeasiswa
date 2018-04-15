@@ -1,2 +1,2 @@
 # SeleksiBeasiswa
-Sistem Informasi seleksi beasiswa, menggunakan Framework Codeigniter
+proyek pertama, ttg seleksi beasiswa, menggunakan Framework Codeigniter (2017)
